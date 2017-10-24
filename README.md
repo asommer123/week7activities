@@ -1,1 +1,1 @@
-# week7activities
+week7activities
